@@ -1,3 +1,9 @@
 body{
     background-color: indigo;
 }
+.Titulo{
+    color: cyan;
+}
+.links{
+    float: right;
+}
