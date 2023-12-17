@@ -3,4 +3,12 @@ body{
 }
 .Titulo{
     color: cyan;
+    text-decoration: underline;
+}
+.presentacion{
+    display: block;
+    justify-content: center;
+}
+.imagen{
+    padding: 3%;
 }
