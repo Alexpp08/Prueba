@@ -5,6 +5,10 @@ body{
     color: cyan;
     text-decoration: underline;
 }
-.imgTitulo{
-    
+.presentacion{
+    display: block;
+    justify-content: center;
+}
+.imagen{
+    padding: 3%;
 }

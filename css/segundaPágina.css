@@ -1,0 +1,18 @@
+body{
+    background-color:  indigo;
+}
+
+.titulo{
+    text-align: center;
+    text-decoration: underline;
+}
+.modulos{
+    color: red;
+    text-align: center;
+}
+.meme{
+    margin: 2%;
+}
+.meme2{
+    margin: 2%;
+}

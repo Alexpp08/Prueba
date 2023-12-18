@@ -1,0 +1,22 @@
+body{
+    background-color: indigo;
+}
+.titulo{
+    text-align: center;
+    text-decoration: underline;
+}
+.gustos{
+    color: red;
+    text-align: center;
+}
+.valorant{
+    width: 20%;
+    margin: 2%;
+}
+.eladio{
+    width: 20%;
+    margin: 2%;
+}
+.skateimg{
+    width: 20%;
+}
